@@ -1,7 +1,15 @@
-📊 Mobile Sales Dashboard – Power BI Project
+**📊 Mobile Sales Dashboard – Power BI Project**
+
+
 A dynamic and interactive Mobile Sales Dashboard built using Power BI to visualize mobile sales across India by model, brand, city, time, and payment method. This project showcases how business insights can be derived using data modeling, DAX, and visual storytelling.
 <img width="611" alt="Dashboard Final" src="https://github.com/user-attachments/assets/d907055b-c656-4360-afc8-c7a87c1d8224" />
+
+Same Period Last Year Analysis
+
 <img width="611" alt="SamePeriod Final" src="https://github.com/user-attachments/assets/0e772b9f-a069-4ff7-89b7-21a9cf4c2da9" />
+
+MTD Report
+
 <img width="611" alt="MTD Final" src="https://github.com/user-attachments/assets/14ab084a-b439-4111-9060-0a226688527a" />
 
 🔍 Features
